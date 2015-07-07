@@ -1,0 +1,22 @@
+{
+  "name": "cors-proxy",
+  "version": "1.0.0",
+  "description": "Proxies requests and adds cors headers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntgn81/cors-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntgn81/cors-proxy/issues"
+  },
+  "homepage": "https://github.com/ntgn81/cors-proxy#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.2.3"
+  }
+}
